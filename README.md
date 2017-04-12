@@ -49,3 +49,7 @@ NSDictionary *appRatings = @{@"MyApp1": @3, @"MyApp2": @5};
 NSLog(@"%@", appRatings[@"MyApp2"]);
 
 NSLog(@"Рейтинг приложения MyApp1 равен %@.", appRatings[@"MyApp1"]);
+
+
+//Level 2
+
