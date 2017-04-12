@@ -2,7 +2,9 @@
 // http://tryobjectivec.codeschool.com/
 
 //Level 1
+
 // Функция, которая выводит на экран текст:
+
 NSLog(@"Hello, Lucy!");
 
 NSString *firstName = @"Lucy";
